@@ -1,0 +1,12 @@
+{
+  "name": "Future Legacy",
+  "description": "Future Legacy is India's all-in-one mentorship and innovation platform. Here, students learn from IAS, Doctors, and Engineers, farmers learn modern agriculture, and everyone gets real guidance in emergencies. Build your legacy with knowledge, skill, and purpose — Future Legacy, the app for tomorrow's leaders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
